@@ -36,4 +36,3 @@ This task helped in understanding:
 - Network reconnaissance
 - Packet-level traffic analysis
 - Linux file permissions
-- 
